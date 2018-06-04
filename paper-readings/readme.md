@@ -20,3 +20,5 @@ https://www.zybuluo.com/jeffly/note/1168033
 LightNVM: The Linux Open-Channel SSD Subsystem
 https://www.zybuluo.com/jeffly/note/1167193
 
+Hyperkernel: Push-Button Verification of an OS Kernel
+https://www.zybuluo.com/jeffly/note/1171748
