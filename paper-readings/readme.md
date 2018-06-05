@@ -1,5 +1,5 @@
 
-¿ÉÒÔ´ÓÏÂÃæµÄÁ´½Ó¿´µ½Ã¿Ò»ÆªÂÛÎÄµÄ±Ê¼Ç¡£
+å¯ä»¥ä»ä¸‹é¢çš„é“¾æ¥çœ‹åˆ°æ¯ä¸€ç¯‡è®ºæ–‡çš„ç¬”è®°ã€‚
 
 The Scalable Commutativity Rule:Designing Scalable Software for Multicore Processors
 https://www.zybuluo.com/jeffly/note/1168723
@@ -13,7 +13,7 @@ https://www.zybuluo.com/jeffly/note/1166856
 ParaFS: A Log-Structured File System to Exploit the Internal Parallelism of Flash Devices.
 https://www.zybuluo.com/jeffly/note/1167505
 
-From random block corruption to privilege escalatio£ºA ?lesystem attack vector for rowhammer-like attack
+From random block corruption to privilege escalatioï¼šA filesystem attack vector for rowhammer-like attack
 https://www.zybuluo.com/jeffly/note/1168033
 
 
